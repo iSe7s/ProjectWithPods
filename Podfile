@@ -5,6 +5,7 @@
 
 target 'ProjectWithPods' do
 pod 'AFNetworking'
+pod 'SDWebImage'
 end
 
 target 'ProjectWithPodsTests' do
